@@ -10,7 +10,7 @@ global.AIRich = AIRich;
 
 global.pairingNumber = 966548523941;
 global.owner = [
-  ['966548523941', 'noureddine Ouafy', true],
+  ['966567762502', 'noureddine Ouafy', true],
   ['', 'Owner 2', true],
 ];
 
