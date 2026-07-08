@@ -1,4 +1,4 @@
-import { ytdown } from './ytmp3.js';
+//import { ytdown } from './ytmp3.js';
 
 let handler = async (m, { usedPrefix, command, text }) => {
 	if (!text) throw `Usage: ${usedPrefix + command} <YouTube Video URL>`;
